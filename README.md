@@ -1,7 +1,7 @@
 Skate
 =====
 
-Command line utility to use Zurb's Ink Inliner (http://zurb.com/ink/inliner.php)
+Command line utility to use Zurb's Ink Inliner (http://zurb.com/ink/inliner.php) for HTML emails.
 
 
 ### Usage
@@ -58,7 +58,7 @@ Or in a more realistic example:
 
 ### Why inline styles?
 
-As mentioned by Zurb's guys:
+Inline styles is a good technique to achieve consistent rendering when sending email newsletters to difference email client. As mentioned by Zurb's guys:
 
 > * Popular email clients like Gmail strip out CSS in the \<style\> tag.
 > * This is the best way to guarantee your email works properly on the compatible clients listed in the docs.
