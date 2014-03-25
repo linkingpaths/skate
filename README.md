@@ -55,11 +55,16 @@ Or in a more realistic example:
 ``` zsh
 › skate index.html > inlined.html
 ```
+
 ### Why inline styles?
 
 As mentioned by Zurb's guys:
 
-> * Popular email clients like Gmail strip out CSS in the <style> tag.
-
+> * Popular email clients like Gmail strip out CSS in the \<style\> tag.
 > * This is the best way to guarantee your email works properly on the compatible clients listed in the docs.
+
+
+### Disclaimer
+
+This is _literally_ my first piece of code in [Go](golang.org). Please, be understanding.
 
