@@ -67,4 +67,3 @@ Inline styles is a good technique to achieve consistent rendering when sending e
 ### Disclaimer
 
 This is _literally_ my first piece of code in [Go](golang.org). Please, be understanding.
-
